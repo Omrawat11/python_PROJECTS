@@ -49,4 +49,4 @@ while True:
         comp_score += 1
         print("❌ Computer WON this round! 🤖")
 
-    print(f"📊 Current Score → You: {human_score} | Computer: {comp_score}")
+    print(f"📊 Current Score → You: {human_score} | Computer: {comp_score}") 
